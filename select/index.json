@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Samurai",
+  "base_artist": "Lupe Fiasco",
+  "createdAt": "2026-03-08T01:55:21.146550Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Samurai Sword",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/01_Samurai_Sword_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reptiles and Samurai",
+      "artist": "Oingo Boingo",
+      "has_synced": false,
+      "path": "select/02_Reptiles_and_Samurai_Oingo_Boingo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Samurai Masu Biitsu",
+      "artist": "Bogdan Raczynski",
+      "has_synced": false,
+      "path": "select/03_Samurai_Masu_Biitsu_Bogdan_Raczynski.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Samurai",
+      "artist": "Inja feat. Serum",
+      "has_synced": true,
+      "path": "select/04_Samurai_Inja_feat._Serum.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Samurai (feat. Serum)",
+      "artist": "Inja",
+      "has_synced": true,
+      "path": "select/05_Samurai_(feat._Serum)_Inja.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Samurai In Autumn",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/06_The_Samurai_In_Autumn_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Samurai",
+      "artist": "Juno Reactor",
+      "has_synced": false,
+      "path": "select/07_Samurai_Juno_Reactor.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Samurai Boy",
+      "artist": "Tove Styrke",
+      "has_synced": true,
+      "path": "select/08_Samurai_Boy_Tove_Styrke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Samurai",
+      "artist": "Pretenders feat. Bob Clearmountain",
+      "has_synced": true,
+      "path": "select/09_Samurai_Pretenders_feat._Bob_Clearmountain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Samurai",
+      "artist": "Pretenders",
+      "has_synced": true,
+      "path": "select/10_Samurai_Pretenders.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Samurai",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/11_Samurai_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Samurai (Previously Unavailable)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/12_Samurai_(Previously_Unavailable)_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Il suicidio del Samurai",
+      "artist": "Verdena",
+      "has_synced": true,
+      "path": "select/13_Il_suicidio_del_Samurai_Verdena.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Samurai",
+      "artist": "Loredana Bertè",
+      "has_synced": false,
+      "path": "select/14_Samurai_Loredana_Bertè.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never Fade Away (SAMURAI Cover)",
+      "artist": "P.T. Adamczyk feat. Olga Jankowska",
+      "has_synced": true,
+      "path": "select/15_Never_Fade_Away_(SAMURAI_Cover)_P.T._Adamczyk_feat._Olga_Jankowska.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never Fade Away (SAMURAI Cover) (feat. Olga Jankowska)",
+      "artist": "P.T. Adamczyk",
+      "has_synced": true,
+      "path": "select/16_Never_Fade_Away_(SAMURAI_Cover)_(feat._Olga_Jankowska)_P.T._Adamczyk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never Fade Away (SAMURAI Cover)",
+      "artist": "P.T. Adamczyk, Olga Jankowska",
+      "has_synced": true,
+      "path": "select/17_Never_Fade_Away_(SAMURAI_Cover)_P.T._Adamczyk,_Olga_Jankowska.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Never Fade Away (SAMURAI cover)",
+      "artist": "P.T. Adamczyk feat. Olga Jankowska",
+      "has_synced": true,
+      "path": "select/18_Never_Fade_Away_(SAMURAI_cover)_P.T._Adamczyk_feat._Olga_Jankowska.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Samurai",
+      "artist": "Lupe Fiasco",
+      "has_synced": false,
+      "path": "select/pl_01_Samurai_Lupe_Fiasco.txt"
+    }
+  ]
+}
